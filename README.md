@@ -1,16 +1,27 @@
-## Hi there 👋
+####### 👋 
+Hi, I’m @hackemback
 
-<!--
-**hackemback/hackemback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####### 👀
+I’m interested in cyber security and software development.
 
-Here are some ideas to get you started:
+####### 🌱
+I’m currently learning python. However, I must say that I'm somewhat all over the place. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####### 💞️
+I’m looking to collaborate on various projects as I broaden my understanding and knowledge.
+
+####### 📫
+How to reach me? Open an issue.
+
+####### 😄
+Pronouns: he, him
+
+####### ⚡
+Fun fact: Life is code that's constantly being edited, compiled, executed, and debugged. Is our reality merely "beta mode"?
+
+ 💻 ⌨️ 🖥️ HAPPY CODING!!! 🖥️ ⌨️ 💻
+
+<!---
+hackemback/hackemback is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
